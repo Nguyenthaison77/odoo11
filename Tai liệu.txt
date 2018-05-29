@@ -1,0 +1,37 @@
+l?ch h?c:   	http://odooglobal.com/en_US/
+
+code h?c odoo : https://gitlab.com/ngocthach.pham/daotaoodoo
+
+Các v?n d? c?n: - Vi?t JSON API cho Android App & IOS App - demo v?i React Native
+		- S? d?ng controller trong Odoo
+		- ?ng d?ng controller d? truy xu?t d? li?u t? database và URL
+		- Các ki?u view Graph, Pivot
+		- ?ng d?ng controller vi?t Snippet và làm các block trong website Odoo
+		- Tìm hi?u các Framework Javascript trong Odoo bao g?m Backbone JS, Underscore JS
+		- QWEB, Wizard
+		- T?o cron job - các task vi?c t? d?ng th?c hi?n vào kho?ng th?i gian nh?t d?nh 
+
+
+Tài li?u:	https://drive.google.com/drive/folders/1-crlUEFQZh4qa3IpxGIs_zoGZI2FFLgo?usp=sharing
+
+
+K? th?a co b?n:	https://www.youtube.com/watch?v=-9hYweis_40&t=0s&list=PLYaNfSJ8EtN1r2QooL9azU-w7XJd37rhN&index=37
+
+K? th?a		https://www.youtube.com/watch?v=fRDk8kbj1lI&list=PLYaNfSJ8EtN1r2QooL9azU-w7XJd37rhN&index=38
+
+		https://www.youtube.com/watch?v=aOAmJj-CMh8&index=39&list=PLYaNfSJ8EtN1r2QooL9azU-w7XJd37rhN
+
+
+Tree view	https://www.youtube.com/watch?v=LZc8kJW10D0&index=33&list=PLYaNfSJ8EtN1r2QooL9azU-w7XJd37rhN
+
+
+form view 	https://www.youtube.com/watch?v=GCgq525Kgbo&list=PLYaNfSJ8EtN1r2QooL9azU-w7XJd37rhN&index=34
+
+
+
+odoo toàn di?n	https://www.youtube.com/watch?v=zpJjxDPDmmk&list=PLYaNfSJ8EtN1r2QooL9azU-w7XJd37rhN
+
+
+Bu?i 2 khóa 5 	https://drive.google.com/file/d/1wTkVVb8F4cH6Ai6COZJGibYc-W7R9nQO/view?usp=sharing
+
+Bu?i 4:    	https://drive.google.com/drive/folders/1-crlUEFQZh4qa3IpxGIs_zoGZI2FFLgo?usp=sharing
